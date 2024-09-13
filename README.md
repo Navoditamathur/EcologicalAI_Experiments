@@ -82,4 +82,4 @@ Contributions are welcome! If you'd like to add a new experiment or improve exis
 
 ## Contact
 
-For questions or feedback, feel free to reach out to **Navodita Mathur** via [LinkedIn](https://www.linkedin.com/in/navoditamathur/) or email: **navoditamathur1998@gmail.com*.
+For questions or feedback, feel free to reach out to **Navodita Mathur** via [LinkedIn](https://www.linkedin.com/in/navodita-mathur/) or email: **navoditamathur1998@gmail.com**.
