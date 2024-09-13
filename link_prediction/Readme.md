@@ -1,1 +1,5 @@
+# Link Prediction
+Link prediction in biotic interaction networks aims to predict potential or missing interactions between species in ecosystems by analyzing relationships like predation, mutualism, and competition. Traditionally, models like Random Forests are used to make predictions based on features such as species traits, habitat overlap, and existing interactions. However, more advanced techniques, such as Graph Neural Networks (GNNs), can also be applied to leverage the complex structure of interaction networks. GNNs are particularly effective in capturing graph-based dependencies and can significantly improve the accuracy of link prediction in ecological networks, contributing to better understanding of biodiversity and ecosystem dynamics.
 
+Below is a code implementation using Random Forest for link prediction in these networks.
+Acknowledgement: Special thanks to the [Bascompte Lab - The Architecture of Biodiversity](https://www.bascompte.net/) at University of Zurich for providing the data
