@@ -32,6 +32,7 @@ To get started with these notebooks:
    ```bash
    git clone https://github.com/your-username/EcologicalAI_Experiments.git
    cd EcologicalAI_Experiments
+   cd "experiment"
    ```
 
 2. **Create a virtual environment (optional but recommended):**
